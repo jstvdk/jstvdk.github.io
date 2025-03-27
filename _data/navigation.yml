@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "CV"
+    url: /Voitsekhovskyi_CV_2025_github.pdf
+  - title: "Research"
+    url: https://scholar.google.com/citations?hl=en&user=my4513sAAAAJ&view_op=list_works&gmla=ANZ5fUP1HhU-baHfFp8sXCptXK3zjK5OwW963UKOw2BRoA-rkBAUxEzWA78sQ3IFP4Qy2ShF3bvHBSo5OtYT-hQxC6jpcadpzUGnNBTKi1de1HLbz5nHb_2Jj9AZJA7uy7oLbeEWukb2VCl78AhTNvOq22LBFg
+  - title: "Blog"
+    url: /blog/
+  - title: "Talks"
+    url: /talks/
