@@ -1,12 +1,11 @@
 ---
-permalink: /
-title: "Whats up biaches, I'm Vadym"
-excerpt: "About me"
+layout: single          # ← NOT “home”
+title: "About Me"
+permalink: /index.html  # ← forces it to be the homepage
+nav_order: 1            # ← optional: puts it first in your nav
 author_profile: true
-redirect_from:
-    - /about/
-    - /about.html
 ---
 
+Hello! My name is ...
 
-And here we go.
+Here’s my professional/research background...
