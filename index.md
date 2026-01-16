@@ -1,9 +1,12 @@
 ---
-layout: single          # ← NOT “home”
+layout: home
 title: "Whats up dawg 🐕"
-permalink: /  # ← forces it to be the homepage
-nav_order: 1            # ← optional: puts it first in your nav
+permalink: /
+nav_order: 1
 author_profile: true
 ---
 
-🏄‍♂️ I am testing this new cool feature. Website. 
+Hello! My name is Vadym Voitsekhovskyi. I am a postdoctoral researcher in Amsterdam at the University of Amsterdam.
+This site is where I share research notes and personal blog posts.
+
+🏄‍♂️ I am testing this new cool feature. Website.

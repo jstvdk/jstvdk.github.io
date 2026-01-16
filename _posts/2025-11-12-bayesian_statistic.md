@@ -1,3 +1,8 @@
+---
+title: "Bayesian Statistics"
+excerpt: "Notes on frequentist vs Bayesian reasoning."
+date: 2025-03-28
+---
 
 ## The classical (frequentist) way
 
@@ -23,4 +28,3 @@ The **prior** only biases the result if the data are weak - low statistics, larg
 Thats intentional - Bayesian explicitly combines the knowledge and evidence.
 
 **Degeneracy** of parameters - if tow parameters can form different combination that lead to the same model prediction, so the data can not tell them apart clearly.
-
