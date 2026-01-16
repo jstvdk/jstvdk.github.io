@@ -5,5 +5,23 @@ search: false
 
 @charset "utf-8";
 
+$serif: "Palatino Linotype", "Book Antiqua", Palatino, "URW Palladio L",
+  "Nimbus Roman No9 L", serif;
+$sans-serif: $serif;
+$sans-serif-narrow: $serif;
+$global-font-family: $serif;
+$header-font-family: $serif;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom link colors for blog post titles */
+.archive__item-title a,
+.archive__item-title a:visited {
+  color: #2b2b2b;
+}
+
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+  color: #111;
+}
