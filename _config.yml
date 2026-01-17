@@ -21,7 +21,7 @@ title                    : "hello world"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Personal Website"
-description              : "An amazing website."
+description              : "Blog website"
 url                      : https://vadymv.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -122,9 +122,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:v.voitsekhovskyi@uva.nl"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "Linkedin
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vadym-voitsekhovskyi-373326152/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
