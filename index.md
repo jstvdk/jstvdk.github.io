@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Whats up dawg 🐕"
+#title: 
 permalink: /
 nav_order: 1
 author_profile: true
